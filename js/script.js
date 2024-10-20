@@ -28,7 +28,7 @@ blackBackdrop.addEventListener("click", toggleAddTaskForm);
 let categories = [
   {
     title: "Personal",
-    img: "person.png",
+    img: "Person.png",
   },
   {
     title: "Work",
